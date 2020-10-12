@@ -1,4 +1,6 @@
-# Computer-Vision
+# Object Detection
+
+I use a publicly available dataset of annotated images called the Pascal VOC 2007 Dataset. You can find more about the dataset by following these links: [link1](http://lear.inrialpes.fr/RecogWorkshop08/documents/everingham.pdf), [link 2](https://pjreddie.com/media/files/VOC2007_doc.pdf)
 
 # References
 
