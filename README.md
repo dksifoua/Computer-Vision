@@ -2,6 +2,10 @@
 
 I use a publicly available dataset of annotated images called the Pascal VOC 2007 Dataset. You can find more about the dataset by following these links: [link1](http://lear.inrialpes.fr/RecogWorkshop08/documents/everingham.pdf), [link 2](https://pjreddie.com/media/files/VOC2007_doc.pdf)
 
+## 1. Two stages object detectors
+
+## 2. One stage object detectors
+
 # References
 
 - [1] Girshick, R., Donahue, J., Darrell, T., & Malik, J. (2014). Rich feature hierarchies for accurate object detection and semantic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 580-587).
